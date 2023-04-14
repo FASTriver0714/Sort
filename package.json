@@ -1,0 +1,30 @@
+{
+  "name": "sorting-algorithms",
+  "version": "1.0.0",
+  "description": "Visual implementation of sorting algorithms",
+  "author": "Ken Huh <ken@vanillacoding.co>",
+  "license": "MIT",
+  "homepage": "https://gitlab.com/vanilla-coding/bootcamp/foundations/sorting-algorithms",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.11.1",
+    "@babel/plugin-transform-runtime": "^7.11.0",
+    "@parcel/transformer-less": "^2.8.3",
+    "less": "^3.12.2",
+    "parcel": "^2.1.1"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanillacoding/prep15b-w06.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/vanillacoding/prep15b-w06/issues"
+  }
+}
